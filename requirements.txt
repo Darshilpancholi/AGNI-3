@@ -15,4 +15,7 @@ python-dotenv
 pydantic
 
 # Production Server
+
 gunicorn
+
+aiohttp
